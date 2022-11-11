@@ -18,6 +18,6 @@ pip install pandas
 - Performs rudimentary analysis about the result.
 
 Here is what your sample output should look like:
-![Alt text](.\img\sample_output.jpg?raw=true "Sample Output")
+![Alt text](/img/sample_output.jpg?raw=true "Sample Output")
 
 
